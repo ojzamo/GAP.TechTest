@@ -1,0 +1,30 @@
+C:\code\GAP - OZ\GAP.TechTest.EntityFramework\bin\Debug\GAP.TechTest.EntityFramework.dll.config
+C:\code\GAP - OZ\GAP.TechTest.EntityFramework\bin\Debug\GAP.TechTest.EntityFramework.dll
+C:\code\GAP - OZ\GAP.TechTest.EntityFramework\bin\Debug\GAP.TechTest.EntityFramework.pdb
+C:\code\GAP - OZ\GAP.TechTest.EntityFramework\bin\Debug\CommonServiceLocator.dll
+C:\code\GAP - OZ\GAP.TechTest.EntityFramework\bin\Debug\EntityFramework.dll
+C:\code\GAP - OZ\GAP.TechTest.EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\code\GAP - OZ\GAP.TechTest.EntityFramework\bin\Debug\GAP.TechTest.Core.Entities.dll
+C:\code\GAP - OZ\GAP.TechTest.EntityFramework\bin\Debug\GAP.TechTest.Core.Entities.pdb
+C:\code\GAP - OZ\GAP.TechTest.EntityFramework\bin\Debug\EntityFramework.xml
+C:\code\GAP - OZ\GAP.TechTest.EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\code\GAP - OZ\GAP.TechTest.EntityFramework\obj\Debug\GAP.TechTest.EntityFramework.csprojAssemblyReference.cache
+C:\code\GAP - OZ\GAP.TechTest.EntityFramework\obj\Debug\GAP.TechTest.EntityFramework.csproj.CoreCompileInputs.cache
+C:\code\GAP - OZ\GAP.TechTest.EntityFramework\obj\Debug\GAP.TechTest.EntityFramework.csproj.CopyComplete
+C:\code\GAP - OZ\GAP.TechTest.EntityFramework\obj\Debug\GAP.TechTest.EntityFramework.dll
+C:\code\GAP - OZ\GAP.TechTest.EntityFramework\obj\Debug\GAP.TechTest.EntityFramework.pdb
+C:\code\GAP\GAP.TechTest.EntityFramework\bin\Debug\GAP.TechTest.EntityFramework.dll.config
+C:\code\GAP\GAP.TechTest.EntityFramework\bin\Debug\GAP.TechTest.EntityFramework.dll
+C:\code\GAP\GAP.TechTest.EntityFramework\bin\Debug\GAP.TechTest.EntityFramework.pdb
+C:\code\GAP\GAP.TechTest.EntityFramework\bin\Debug\CommonServiceLocator.dll
+C:\code\GAP\GAP.TechTest.EntityFramework\bin\Debug\EntityFramework.dll
+C:\code\GAP\GAP.TechTest.EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\code\GAP\GAP.TechTest.EntityFramework\bin\Debug\GAP.TechTest.Core.Entities.dll
+C:\code\GAP\GAP.TechTest.EntityFramework\bin\Debug\GAP.TechTest.Core.Entities.pdb
+C:\code\GAP\GAP.TechTest.EntityFramework\bin\Debug\EntityFramework.xml
+C:\code\GAP\GAP.TechTest.EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\code\GAP\GAP.TechTest.EntityFramework\obj\Debug\GAP.TechTest.EntityFramework.csprojAssemblyReference.cache
+C:\code\GAP\GAP.TechTest.EntityFramework\obj\Debug\GAP.TechTest.EntityFramework.csproj.CoreCompileInputs.cache
+C:\code\GAP\GAP.TechTest.EntityFramework\obj\Debug\GAP.TechTest.EntityFramework.csproj.CopyComplete
+C:\code\GAP\GAP.TechTest.EntityFramework\obj\Debug\GAP.TechTest.EntityFramework.dll
+C:\code\GAP\GAP.TechTest.EntityFramework\obj\Debug\GAP.TechTest.EntityFramework.pdb

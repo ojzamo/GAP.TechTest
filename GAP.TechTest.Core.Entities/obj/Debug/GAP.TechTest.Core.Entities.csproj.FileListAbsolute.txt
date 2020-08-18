@@ -1,0 +1,12 @@
+C:\code\GAP - OZ\GAP.TechTest.Core.Entities\bin\Debug\GAP.TechTest.Core.Entities.dll
+C:\code\GAP - OZ\GAP.TechTest.Core.Entities\bin\Debug\GAP.TechTest.Core.Entities.pdb
+C:\code\GAP - OZ\GAP.TechTest.Core.Entities\obj\Debug\GAP.TechTest.Core.Entities.csproj.CoreCompileInputs.cache
+C:\code\GAP - OZ\GAP.TechTest.Core.Entities\obj\Debug\GAP.TechTest.Core.Entities.dll
+C:\code\GAP - OZ\GAP.TechTest.Core.Entities\obj\Debug\GAP.TechTest.Core.Entities.pdb
+C:\code\GAP - OZ\GAP.TechTest.Core.Entities\obj\Debug\GAP.TechTest.Core.Entities.csprojAssemblyReference.cache
+C:\code\GAP\GAP.TechTest.Core.Entities\bin\Debug\GAP.TechTest.Core.Entities.dll
+C:\code\GAP\GAP.TechTest.Core.Entities\bin\Debug\GAP.TechTest.Core.Entities.pdb
+C:\code\GAP\GAP.TechTest.Core.Entities\obj\Debug\GAP.TechTest.Core.Entities.csprojAssemblyReference.cache
+C:\code\GAP\GAP.TechTest.Core.Entities\obj\Debug\GAP.TechTest.Core.Entities.csproj.CoreCompileInputs.cache
+C:\code\GAP\GAP.TechTest.Core.Entities\obj\Debug\GAP.TechTest.Core.Entities.dll
+C:\code\GAP\GAP.TechTest.Core.Entities\obj\Debug\GAP.TechTest.Core.Entities.pdb

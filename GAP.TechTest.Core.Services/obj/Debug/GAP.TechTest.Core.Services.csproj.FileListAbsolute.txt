@@ -1,0 +1,80 @@
+C:\code\GAP - OZ\GAP.TechTest.Core.Services\bin\Debug\GAP.TechTest.Core.Services.dll.config
+C:\code\GAP - OZ\GAP.TechTest.Core.Services\bin\Debug\GAP.TechTest.Core.Services.dll
+C:\code\GAP - OZ\GAP.TechTest.Core.Services\bin\Debug\GAP.TechTest.Core.Services.pdb
+C:\code\GAP - OZ\GAP.TechTest.Core.Services\bin\Debug\EntityFramework.dll
+C:\code\GAP - OZ\GAP.TechTest.Core.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\code\GAP - OZ\GAP.TechTest.Core.Services\bin\Debug\GAP.TechTest.Core.Entities.dll
+C:\code\GAP - OZ\GAP.TechTest.Core.Services\bin\Debug\GAP.TechTest.EntityFramework.dll
+C:\code\GAP - OZ\GAP.TechTest.Core.Services\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\code\GAP - OZ\GAP.TechTest.Core.Services\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\code\GAP - OZ\GAP.TechTest.Core.Services\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\code\GAP - OZ\GAP.TechTest.Core.Services\bin\Debug\System.Web.Helpers.dll
+C:\code\GAP - OZ\GAP.TechTest.Core.Services\bin\Debug\System.Web.Mvc.dll
+C:\code\GAP - OZ\GAP.TechTest.Core.Services\bin\Debug\System.Web.Razor.dll
+C:\code\GAP - OZ\GAP.TechTest.Core.Services\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\code\GAP - OZ\GAP.TechTest.Core.Services\bin\Debug\System.Web.WebPages.dll
+C:\code\GAP - OZ\GAP.TechTest.Core.Services\bin\Debug\System.Web.WebPages.Razor.dll
+C:\code\GAP - OZ\GAP.TechTest.Core.Services\bin\Debug\Unity.Abstractions.dll
+C:\code\GAP - OZ\GAP.TechTest.Core.Services\bin\Debug\Unity.Container.dll
+C:\code\GAP - OZ\GAP.TechTest.Core.Services\bin\Debug\WebActivatorEx.dll
+C:\code\GAP - OZ\GAP.TechTest.Core.Services\bin\Debug\CommonServiceLocator.dll
+C:\code\GAP - OZ\GAP.TechTest.Core.Services\bin\Debug\GAP.TechTest.EntityFramework.pdb
+C:\code\GAP - OZ\GAP.TechTest.Core.Services\bin\Debug\GAP.TechTest.EntityFramework.dll.config
+C:\code\GAP - OZ\GAP.TechTest.Core.Services\bin\Debug\GAP.TechTest.Core.Entities.pdb
+C:\code\GAP - OZ\GAP.TechTest.Core.Services\bin\Debug\EntityFramework.xml
+C:\code\GAP - OZ\GAP.TechTest.Core.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\code\GAP - OZ\GAP.TechTest.Core.Services\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\code\GAP - OZ\GAP.TechTest.Core.Services\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\code\GAP - OZ\GAP.TechTest.Core.Services\bin\Debug\System.Web.Helpers.xml
+C:\code\GAP - OZ\GAP.TechTest.Core.Services\bin\Debug\System.Web.Mvc.xml
+C:\code\GAP - OZ\GAP.TechTest.Core.Services\bin\Debug\System.Web.Razor.xml
+C:\code\GAP - OZ\GAP.TechTest.Core.Services\bin\Debug\System.Web.WebPages.xml
+C:\code\GAP - OZ\GAP.TechTest.Core.Services\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\code\GAP - OZ\GAP.TechTest.Core.Services\bin\Debug\System.Web.WebPages.Razor.xml
+C:\code\GAP - OZ\GAP.TechTest.Core.Services\bin\Debug\Unity.Abstractions.pdb
+C:\code\GAP - OZ\GAP.TechTest.Core.Services\bin\Debug\Unity.Container.pdb
+C:\code\GAP - OZ\GAP.TechTest.Core.Services\obj\Debug\GAP.TechTest.Core.Services.csprojAssemblyReference.cache
+C:\code\GAP - OZ\GAP.TechTest.Core.Services\obj\Debug\GAP.TechTest.Core.Services.csproj.CoreCompileInputs.cache
+C:\code\GAP - OZ\GAP.TechTest.Core.Services\obj\Debug\GAP.TechTest.Core.Services.csproj.CopyComplete
+C:\code\GAP - OZ\GAP.TechTest.Core.Services\obj\Debug\GAP.TechTest.Core.Services.dll
+C:\code\GAP - OZ\GAP.TechTest.Core.Services\obj\Debug\GAP.TechTest.Core.Services.pdb
+C:\code\GAP\GAP.TechTest.Core.Services\bin\Debug\GAP.TechTest.Core.Services.dll.config
+C:\code\GAP\GAP.TechTest.Core.Services\bin\Debug\GAP.TechTest.Core.Services.dll
+C:\code\GAP\GAP.TechTest.Core.Services\bin\Debug\GAP.TechTest.Core.Services.pdb
+C:\code\GAP\GAP.TechTest.Core.Services\bin\Debug\EntityFramework.dll
+C:\code\GAP\GAP.TechTest.Core.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\code\GAP\GAP.TechTest.Core.Services\bin\Debug\GAP.TechTest.Core.Entities.dll
+C:\code\GAP\GAP.TechTest.Core.Services\bin\Debug\GAP.TechTest.EntityFramework.dll
+C:\code\GAP\GAP.TechTest.Core.Services\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\code\GAP\GAP.TechTest.Core.Services\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\code\GAP\GAP.TechTest.Core.Services\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\code\GAP\GAP.TechTest.Core.Services\bin\Debug\System.Web.Helpers.dll
+C:\code\GAP\GAP.TechTest.Core.Services\bin\Debug\System.Web.Mvc.dll
+C:\code\GAP\GAP.TechTest.Core.Services\bin\Debug\System.Web.Razor.dll
+C:\code\GAP\GAP.TechTest.Core.Services\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\code\GAP\GAP.TechTest.Core.Services\bin\Debug\System.Web.WebPages.dll
+C:\code\GAP\GAP.TechTest.Core.Services\bin\Debug\System.Web.WebPages.Razor.dll
+C:\code\GAP\GAP.TechTest.Core.Services\bin\Debug\Unity.Abstractions.dll
+C:\code\GAP\GAP.TechTest.Core.Services\bin\Debug\Unity.Container.dll
+C:\code\GAP\GAP.TechTest.Core.Services\bin\Debug\WebActivatorEx.dll
+C:\code\GAP\GAP.TechTest.Core.Services\bin\Debug\CommonServiceLocator.dll
+C:\code\GAP\GAP.TechTest.Core.Services\bin\Debug\GAP.TechTest.EntityFramework.pdb
+C:\code\GAP\GAP.TechTest.Core.Services\bin\Debug\GAP.TechTest.EntityFramework.dll.config
+C:\code\GAP\GAP.TechTest.Core.Services\bin\Debug\GAP.TechTest.Core.Entities.pdb
+C:\code\GAP\GAP.TechTest.Core.Services\bin\Debug\EntityFramework.xml
+C:\code\GAP\GAP.TechTest.Core.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\code\GAP\GAP.TechTest.Core.Services\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\code\GAP\GAP.TechTest.Core.Services\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\code\GAP\GAP.TechTest.Core.Services\bin\Debug\System.Web.Helpers.xml
+C:\code\GAP\GAP.TechTest.Core.Services\bin\Debug\System.Web.Mvc.xml
+C:\code\GAP\GAP.TechTest.Core.Services\bin\Debug\System.Web.Razor.xml
+C:\code\GAP\GAP.TechTest.Core.Services\bin\Debug\System.Web.WebPages.xml
+C:\code\GAP\GAP.TechTest.Core.Services\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\code\GAP\GAP.TechTest.Core.Services\bin\Debug\System.Web.WebPages.Razor.xml
+C:\code\GAP\GAP.TechTest.Core.Services\bin\Debug\Unity.Abstractions.pdb
+C:\code\GAP\GAP.TechTest.Core.Services\bin\Debug\Unity.Container.pdb
+C:\code\GAP\GAP.TechTest.Core.Services\obj\Debug\GAP.TechTest.Core.Services.csprojAssemblyReference.cache
+C:\code\GAP\GAP.TechTest.Core.Services\obj\Debug\GAP.TechTest.Core.Services.csproj.CoreCompileInputs.cache
+C:\code\GAP\GAP.TechTest.Core.Services\obj\Debug\GAP.TechTest.Core.Services.csproj.CopyComplete
+C:\code\GAP\GAP.TechTest.Core.Services\obj\Debug\GAP.TechTest.Core.Services.dll
+C:\code\GAP\GAP.TechTest.Core.Services\obj\Debug\GAP.TechTest.Core.Services.pdb

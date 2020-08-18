@@ -1,0 +1,102 @@
+C:\code\GAP - OZ\GAP.TechTest.Web.MVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\code\GAP - OZ\GAP.TechTest.Web.MVC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\code\GAP - OZ\GAP.TechTest.Web.MVC\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\code\GAP - OZ\GAP.TechTest.Web.MVC\bin\Debug\netcoreapp3.1\GAP.TechTest.Web.MVC.exe
+C:\code\GAP - OZ\GAP.TechTest.Web.MVC\bin\Debug\netcoreapp3.1\GAP.TechTest.Web.MVC.deps.json
+C:\code\GAP - OZ\GAP.TechTest.Web.MVC\bin\Debug\netcoreapp3.1\GAP.TechTest.Web.MVC.runtimeconfig.json
+C:\code\GAP - OZ\GAP.TechTest.Web.MVC\bin\Debug\netcoreapp3.1\GAP.TechTest.Web.MVC.runtimeconfig.dev.json
+C:\code\GAP - OZ\GAP.TechTest.Web.MVC\bin\Debug\netcoreapp3.1\GAP.TechTest.Web.MVC.dll
+C:\code\GAP - OZ\GAP.TechTest.Web.MVC\bin\Debug\netcoreapp3.1\GAP.TechTest.Web.MVC.pdb
+C:\code\GAP - OZ\GAP.TechTest.Web.MVC\bin\Debug\netcoreapp3.1\GAP.TechTest.Web.MVC.Views.dll
+C:\code\GAP - OZ\GAP.TechTest.Web.MVC\bin\Debug\netcoreapp3.1\GAP.TechTest.Web.MVC.Views.pdb
+C:\code\GAP - OZ\GAP.TechTest.Web.MVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\code\GAP - OZ\GAP.TechTest.Web.MVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\code\GAP - OZ\GAP.TechTest.Web.MVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\code\GAP - OZ\GAP.TechTest.Web.MVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\code\GAP - OZ\GAP.TechTest.Web.MVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\code\GAP - OZ\GAP.TechTest.Web.MVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\code\GAP - OZ\GAP.TechTest.Web.MVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\code\GAP - OZ\GAP.TechTest.Web.MVC\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\code\GAP - OZ\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\GAP.TechTest.Web.MVC.csprojAssemblyReference.cache
+C:\code\GAP - OZ\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\GAP.TechTest.Web.MVC.AssemblyInfoInputs.cache
+C:\code\GAP - OZ\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\GAP.TechTest.Web.MVC.AssemblyInfo.cs
+C:\code\GAP - OZ\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\GAP.TechTest.Web.MVC.RazorAssemblyInfo.cache
+C:\code\GAP - OZ\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\GAP.TechTest.Web.MVC.RazorAssemblyInfo.cs
+C:\code\GAP - OZ\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\GAP.TechTest.Web.MVC.TagHelpers.input.cache
+C:\code\GAP - OZ\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\GAP.TechTest.Web.MVC.TagHelpers.output.cache
+C:\code\GAP - OZ\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\GAP.TechTest.Web.MVC.RazorCoreGenerate.cache
+C:\code\GAP - OZ\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\code\GAP - OZ\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\code\GAP - OZ\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\code\GAP - OZ\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\code\GAP - OZ\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\code\GAP - OZ\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\code\GAP - OZ\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\code\GAP - OZ\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\GAP.TechTest.Web.MVC.RazorTargetAssemblyInfo.cache
+C:\code\GAP - OZ\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\GAP.TechTest.Web.MVC.RazorTargetAssemblyInfo.cs
+C:\code\GAP - OZ\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\GAP.TechTest.Web.MVC.Views.pdb
+C:\code\GAP - OZ\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\GAP.TechTest.Web.MVC.csproj.CopyComplete
+C:\code\GAP - OZ\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\staticwebassets\GAP.TechTest.Web.MVC.StaticWebAssets.Manifest.cache
+C:\code\GAP - OZ\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\staticwebassets\GAP.TechTest.Web.MVC.StaticWebAssets.xml
+C:\code\GAP - OZ\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\GAP.TechTest.Web.MVC.dll
+C:\code\GAP - OZ\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\GAP.TechTest.Web.MVC.pdb
+C:\code\GAP - OZ\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\GAP.TechTest.Web.MVC.genruntimeconfig.cache
+C:\code\GAP - OZ\GAP.TechTest.Web.MVC\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\code\GAP - OZ\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\GAP.TechTest.Web.MVC.csproj.CoreCompileInputs.cache
+C:\code\GAP - OZ\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\GAP.TechTest.Web.MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\code\GAP - OZ\GAP.TechTest.Web.MVC\bin\Debug\netcoreapp3.1\Polly.dll
+C:\code\GAP - OZ\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+C:\code\GAP - OZ\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\New.cshtml.g.cs
+C:\code\GAP - OZ\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_InsurancePolicy.cshtml.g.cs
+C:\code\GAP - OZ\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Assign.cshtml.g.cs
+C:\code\GAP\GAP.TechTest.Web.MVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\code\GAP\GAP.TechTest.Web.MVC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\code\GAP\GAP.TechTest.Web.MVC\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\code\GAP\GAP.TechTest.Web.MVC\bin\Debug\netcoreapp3.1\GAP.TechTest.Web.MVC.exe
+C:\code\GAP\GAP.TechTest.Web.MVC\bin\Debug\netcoreapp3.1\GAP.TechTest.Web.MVC.deps.json
+C:\code\GAP\GAP.TechTest.Web.MVC\bin\Debug\netcoreapp3.1\GAP.TechTest.Web.MVC.runtimeconfig.json
+C:\code\GAP\GAP.TechTest.Web.MVC\bin\Debug\netcoreapp3.1\GAP.TechTest.Web.MVC.runtimeconfig.dev.json
+C:\code\GAP\GAP.TechTest.Web.MVC\bin\Debug\netcoreapp3.1\GAP.TechTest.Web.MVC.dll
+C:\code\GAP\GAP.TechTest.Web.MVC\bin\Debug\netcoreapp3.1\GAP.TechTest.Web.MVC.pdb
+C:\code\GAP\GAP.TechTest.Web.MVC\bin\Debug\netcoreapp3.1\GAP.TechTest.Web.MVC.Views.dll
+C:\code\GAP\GAP.TechTest.Web.MVC\bin\Debug\netcoreapp3.1\GAP.TechTest.Web.MVC.Views.pdb
+C:\code\GAP\GAP.TechTest.Web.MVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\code\GAP\GAP.TechTest.Web.MVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\code\GAP\GAP.TechTest.Web.MVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\code\GAP\GAP.TechTest.Web.MVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\code\GAP\GAP.TechTest.Web.MVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\code\GAP\GAP.TechTest.Web.MVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\code\GAP\GAP.TechTest.Web.MVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\code\GAP\GAP.TechTest.Web.MVC\bin\Debug\netcoreapp3.1\Polly.dll
+C:\code\GAP\GAP.TechTest.Web.MVC\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\code\GAP\GAP.TechTest.Web.MVC\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\code\GAP\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\GAP.TechTest.Web.MVC.csprojAssemblyReference.cache
+C:\code\GAP\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\GAP.TechTest.Web.MVC.AssemblyInfoInputs.cache
+C:\code\GAP\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\GAP.TechTest.Web.MVC.AssemblyInfo.cs
+C:\code\GAP\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\GAP.TechTest.Web.MVC.csproj.CoreCompileInputs.cache
+C:\code\GAP\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\GAP.TechTest.Web.MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\code\GAP\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\GAP.TechTest.Web.MVC.RazorAssemblyInfo.cache
+C:\code\GAP\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\GAP.TechTest.Web.MVC.RazorAssemblyInfo.cs
+C:\code\GAP\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\GAP.TechTest.Web.MVC.TagHelpers.input.cache
+C:\code\GAP\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\GAP.TechTest.Web.MVC.TagHelpers.output.cache
+C:\code\GAP\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\GAP.TechTest.Web.MVC.RazorCoreGenerate.cache
+C:\code\GAP\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Assign.cshtml.g.cs
+C:\code\GAP\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+C:\code\GAP\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\code\GAP\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\New.cshtml.g.cs
+C:\code\GAP\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\code\GAP\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\code\GAP\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_InsurancePolicy.cshtml.g.cs
+C:\code\GAP\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\code\GAP\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\code\GAP\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\code\GAP\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\code\GAP\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\GAP.TechTest.Web.MVC.RazorTargetAssemblyInfo.cache
+C:\code\GAP\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\GAP.TechTest.Web.MVC.RazorTargetAssemblyInfo.cs
+C:\code\GAP\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\GAP.TechTest.Web.MVC.Views.pdb
+C:\code\GAP\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\GAP.TechTest.Web.MVC.csproj.CopyComplete
+C:\code\GAP\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\staticwebassets\GAP.TechTest.Web.MVC.StaticWebAssets.Manifest.cache
+C:\code\GAP\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\staticwebassets\GAP.TechTest.Web.MVC.StaticWebAssets.xml
+C:\code\GAP\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\GAP.TechTest.Web.MVC.dll
+C:\code\GAP\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\GAP.TechTest.Web.MVC.pdb
+C:\code\GAP\GAP.TechTest.Web.MVC\obj\Debug\netcoreapp3.1\GAP.TechTest.Web.MVC.genruntimeconfig.cache

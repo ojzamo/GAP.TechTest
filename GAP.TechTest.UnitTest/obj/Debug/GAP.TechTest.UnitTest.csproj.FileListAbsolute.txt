@@ -1,0 +1,108 @@
+C:\code\GAP - OZ\WebApiRest\GAP.TechTest.UnitTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\code\GAP - OZ\WebApiRest\GAP.TechTest.UnitTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\code\GAP - OZ\WebApiRest\GAP.TechTest.UnitTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\code\GAP - OZ\WebApiRest\GAP.TechTest.UnitTest1\bin\Debug\GAP.TechTest.UnitTest.dll.config
+C:\code\GAP - OZ\WebApiRest\GAP.TechTest.UnitTest1\bin\Debug\GAP.TechTest.UnitTest.dll
+C:\code\GAP - OZ\WebApiRest\GAP.TechTest.UnitTest1\bin\Debug\GAP.TechTest.UnitTest.pdb
+C:\code\GAP - OZ\WebApiRest\GAP.TechTest.UnitTest1\bin\Debug\Castle.Core.dll
+C:\code\GAP - OZ\WebApiRest\GAP.TechTest.UnitTest1\bin\Debug\GAP.TechTest.Core.Entities.dll
+C:\code\GAP - OZ\WebApiRest\GAP.TechTest.UnitTest1\bin\Debug\GAP.TechTest.Core.Services.dll
+C:\code\GAP - OZ\WebApiRest\GAP.TechTest.UnitTest1\bin\Debug\GAP.TechTest.EntityFramework.dll
+C:\code\GAP - OZ\WebApiRest\GAP.TechTest.UnitTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\code\GAP - OZ\WebApiRest\GAP.TechTest.UnitTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\code\GAP - OZ\WebApiRest\GAP.TechTest.UnitTest1\bin\Debug\NSubstitute.dll
+C:\code\GAP - OZ\WebApiRest\GAP.TechTest.UnitTest1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\code\GAP - OZ\WebApiRest\GAP.TechTest.UnitTest1\bin\Debug\EntityFramework.dll
+C:\code\GAP - OZ\WebApiRest\GAP.TechTest.UnitTest1\bin\Debug\CommonServiceLocator.dll
+C:\code\GAP - OZ\WebApiRest\GAP.TechTest.UnitTest1\bin\Debug\Unity.Abstractions.dll
+C:\code\GAP - OZ\WebApiRest\GAP.TechTest.UnitTest1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\code\GAP - OZ\WebApiRest\GAP.TechTest.UnitTest1\bin\Debug\GAP.TechTest.EntityFramework.pdb
+C:\code\GAP - OZ\WebApiRest\GAP.TechTest.UnitTest1\bin\Debug\GAP.TechTest.EntityFramework.dll.config
+C:\code\GAP - OZ\WebApiRest\GAP.TechTest.UnitTest1\bin\Debug\GAP.TechTest.Core.Entities.pdb
+C:\code\GAP - OZ\WebApiRest\GAP.TechTest.UnitTest1\bin\Debug\GAP.TechTest.Core.Services.pdb
+C:\code\GAP - OZ\WebApiRest\GAP.TechTest.UnitTest1\bin\Debug\GAP.TechTest.Core.Services.dll.config
+C:\code\GAP - OZ\WebApiRest\GAP.TechTest.UnitTest1\bin\Debug\Castle.Core.xml
+C:\code\GAP - OZ\WebApiRest\GAP.TechTest.UnitTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\code\GAP - OZ\WebApiRest\GAP.TechTest.UnitTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\code\GAP - OZ\WebApiRest\GAP.TechTest.UnitTest1\bin\Debug\NSubstitute.xml
+C:\code\GAP - OZ\WebApiRest\GAP.TechTest.UnitTest1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\code\GAP - OZ\WebApiRest\GAP.TechTest.UnitTest1\bin\Debug\EntityFramework.xml
+C:\code\GAP - OZ\WebApiRest\GAP.TechTest.UnitTest1\bin\Debug\Unity.Abstractions.pdb
+C:\code\GAP - OZ\WebApiRest\GAP.TechTest.UnitTest1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\code\GAP - OZ\WebApiRest\GAP.TechTest.UnitTest1\obj\Debug\GAP.TechTest.UnitTest.csprojAssemblyReference.cache
+C:\code\GAP - OZ\WebApiRest\GAP.TechTest.UnitTest1\obj\Debug\GAP.TechTest.UnitTest.csproj.CoreCompileInputs.cache
+C:\code\GAP - OZ\WebApiRest\GAP.TechTest.UnitTest1\obj\Debug\GAP.TechTest.UnitTest.csproj.CopyComplete
+C:\code\GAP - OZ\WebApiRest\GAP.TechTest.UnitTest1\obj\Debug\GAP.TechTest.UnitTest.dll
+C:\code\GAP - OZ\WebApiRest\GAP.TechTest.UnitTest1\obj\Debug\GAP.TechTest.UnitTest.pdb
+C:\code\GAP - OZ\GAP.TechTest.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\code\GAP - OZ\GAP.TechTest.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\code\GAP - OZ\GAP.TechTest.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\code\GAP - OZ\GAP.TechTest.UnitTest\bin\Debug\GAP.TechTest.UnitTest.dll.config
+C:\code\GAP - OZ\GAP.TechTest.UnitTest\bin\Debug\GAP.TechTest.UnitTest.dll
+C:\code\GAP - OZ\GAP.TechTest.UnitTest\bin\Debug\GAP.TechTest.UnitTest.pdb
+C:\code\GAP - OZ\GAP.TechTest.UnitTest\bin\Debug\Castle.Core.dll
+C:\code\GAP - OZ\GAP.TechTest.UnitTest\bin\Debug\GAP.TechTest.Core.Entities.dll
+C:\code\GAP - OZ\GAP.TechTest.UnitTest\bin\Debug\GAP.TechTest.Core.Services.dll
+C:\code\GAP - OZ\GAP.TechTest.UnitTest\bin\Debug\GAP.TechTest.EntityFramework.dll
+C:\code\GAP - OZ\GAP.TechTest.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\code\GAP - OZ\GAP.TechTest.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\code\GAP - OZ\GAP.TechTest.UnitTest\bin\Debug\NSubstitute.dll
+C:\code\GAP - OZ\GAP.TechTest.UnitTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\code\GAP - OZ\GAP.TechTest.UnitTest\bin\Debug\EntityFramework.dll
+C:\code\GAP - OZ\GAP.TechTest.UnitTest\bin\Debug\CommonServiceLocator.dll
+C:\code\GAP - OZ\GAP.TechTest.UnitTest\bin\Debug\Unity.Abstractions.dll
+C:\code\GAP - OZ\GAP.TechTest.UnitTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\code\GAP - OZ\GAP.TechTest.UnitTest\bin\Debug\GAP.TechTest.EntityFramework.pdb
+C:\code\GAP - OZ\GAP.TechTest.UnitTest\bin\Debug\GAP.TechTest.EntityFramework.dll.config
+C:\code\GAP - OZ\GAP.TechTest.UnitTest\bin\Debug\GAP.TechTest.Core.Entities.pdb
+C:\code\GAP - OZ\GAP.TechTest.UnitTest\bin\Debug\GAP.TechTest.Core.Services.pdb
+C:\code\GAP - OZ\GAP.TechTest.UnitTest\bin\Debug\GAP.TechTest.Core.Services.dll.config
+C:\code\GAP - OZ\GAP.TechTest.UnitTest\bin\Debug\Castle.Core.xml
+C:\code\GAP - OZ\GAP.TechTest.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\code\GAP - OZ\GAP.TechTest.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\code\GAP - OZ\GAP.TechTest.UnitTest\bin\Debug\NSubstitute.xml
+C:\code\GAP - OZ\GAP.TechTest.UnitTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\code\GAP - OZ\GAP.TechTest.UnitTest\bin\Debug\EntityFramework.xml
+C:\code\GAP - OZ\GAP.TechTest.UnitTest\bin\Debug\Unity.Abstractions.pdb
+C:\code\GAP - OZ\GAP.TechTest.UnitTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\code\GAP - OZ\GAP.TechTest.UnitTest\obj\Debug\GAP.TechTest.UnitTest.csprojAssemblyReference.cache
+C:\code\GAP - OZ\GAP.TechTest.UnitTest\obj\Debug\GAP.TechTest.UnitTest.csproj.CoreCompileInputs.cache
+C:\code\GAP - OZ\GAP.TechTest.UnitTest\obj\Debug\GAP.TechTest.UnitTest.csproj.CopyComplete
+C:\code\GAP - OZ\GAP.TechTest.UnitTest\obj\Debug\GAP.TechTest.UnitTest.dll
+C:\code\GAP - OZ\GAP.TechTest.UnitTest\obj\Debug\GAP.TechTest.UnitTest.pdb
+C:\code\GAP\GAP.TechTest.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\code\GAP\GAP.TechTest.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\code\GAP\GAP.TechTest.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\code\GAP\GAP.TechTest.UnitTest\bin\Debug\GAP.TechTest.UnitTest.dll.config
+C:\code\GAP\GAP.TechTest.UnitTest\bin\Debug\GAP.TechTest.UnitTest.dll
+C:\code\GAP\GAP.TechTest.UnitTest\bin\Debug\GAP.TechTest.UnitTest.pdb
+C:\code\GAP\GAP.TechTest.UnitTest\bin\Debug\Castle.Core.dll
+C:\code\GAP\GAP.TechTest.UnitTest\bin\Debug\GAP.TechTest.Core.Entities.dll
+C:\code\GAP\GAP.TechTest.UnitTest\bin\Debug\GAP.TechTest.Core.Services.dll
+C:\code\GAP\GAP.TechTest.UnitTest\bin\Debug\GAP.TechTest.EntityFramework.dll
+C:\code\GAP\GAP.TechTest.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\code\GAP\GAP.TechTest.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\code\GAP\GAP.TechTest.UnitTest\bin\Debug\NSubstitute.dll
+C:\code\GAP\GAP.TechTest.UnitTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\code\GAP\GAP.TechTest.UnitTest\bin\Debug\EntityFramework.dll
+C:\code\GAP\GAP.TechTest.UnitTest\bin\Debug\CommonServiceLocator.dll
+C:\code\GAP\GAP.TechTest.UnitTest\bin\Debug\Unity.Abstractions.dll
+C:\code\GAP\GAP.TechTest.UnitTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\code\GAP\GAP.TechTest.UnitTest\bin\Debug\GAP.TechTest.EntityFramework.pdb
+C:\code\GAP\GAP.TechTest.UnitTest\bin\Debug\GAP.TechTest.EntityFramework.dll.config
+C:\code\GAP\GAP.TechTest.UnitTest\bin\Debug\GAP.TechTest.Core.Entities.pdb
+C:\code\GAP\GAP.TechTest.UnitTest\bin\Debug\GAP.TechTest.Core.Services.pdb
+C:\code\GAP\GAP.TechTest.UnitTest\bin\Debug\GAP.TechTest.Core.Services.dll.config
+C:\code\GAP\GAP.TechTest.UnitTest\bin\Debug\Castle.Core.xml
+C:\code\GAP\GAP.TechTest.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\code\GAP\GAP.TechTest.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\code\GAP\GAP.TechTest.UnitTest\bin\Debug\NSubstitute.xml
+C:\code\GAP\GAP.TechTest.UnitTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\code\GAP\GAP.TechTest.UnitTest\bin\Debug\EntityFramework.xml
+C:\code\GAP\GAP.TechTest.UnitTest\bin\Debug\Unity.Abstractions.pdb
+C:\code\GAP\GAP.TechTest.UnitTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\code\GAP\GAP.TechTest.UnitTest\obj\Debug\GAP.TechTest.UnitTest.csprojAssemblyReference.cache
+C:\code\GAP\GAP.TechTest.UnitTest\obj\Debug\GAP.TechTest.UnitTest.csproj.CoreCompileInputs.cache
+C:\code\GAP\GAP.TechTest.UnitTest\obj\Debug\GAP.TechTest.UnitTest.csproj.CopyComplete
+C:\code\GAP\GAP.TechTest.UnitTest\obj\Debug\GAP.TechTest.UnitTest.dll
+C:\code\GAP\GAP.TechTest.UnitTest\obj\Debug\GAP.TechTest.UnitTest.pdb

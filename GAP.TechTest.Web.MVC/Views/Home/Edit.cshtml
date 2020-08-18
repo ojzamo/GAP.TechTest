@@ -1,0 +1,27 @@
+﻿@model GAP.TechTest.Web.MVC.Models.InsurancePolicyModel
+@{ ViewData["Title"] = "Edit Page"; }
+
+@using (Html.BeginForm("EditSave", "Home", FormMethod.Post))
+{    
+    @Html.HiddenFor(model => model.Id)
+    <div class="modal-body">
+        <ul class="nav nav-tabs" role="tablist">
+            <li class="nav-item">
+                <a class="nav-link active" data-toggle="tab" role="tab" href="#edit-user-details">Poliza</a>
+            </li>
+        </ul>
+        <div class="tab-content mt-4">
+            @await Html.PartialAsync("_InsurancePolicy", Model)
+            <div class="row margin-bottom-thick">
+                <div class="col-sm-1 col-sm-pull-1 textAlignLeftCenter">
+                    @Html.ActionLink("Back", "Index", "Home", new { @class = "btn btn-primary-action" })
+                </div>
+
+                <div class="col-sm-1 col-sm-offset-2 col-sm-push-2 textAlignRightCenter">
+                    <input type="submit" id="command" name="command" class="btn btn-primary" value="Guardar" />
+                </div>
+
+            </div>
+        </div>
+    </div> 
+}

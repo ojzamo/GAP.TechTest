@@ -1,0 +1,46 @@
+﻿@model GAP.TechTest.Web.MVC.Models.AssignModel
+@{ ViewData["Title"] = "Edit Page"; }
+
+@using (Html.BeginForm("AssignSave", "Home", FormMethod.Post))
+{
+@Html.HiddenFor(model => model.InsurancePolicyId)
+                <div class="modal-body">
+                    <ul class="nav nav-tabs" role="tablist">
+                        <li class="nav-item">
+                            <a class="nav-link active" data-toggle="tab" role="tab" href="#edit-user-details">Poliza</a>
+                        </li>
+                    </ul>
+                    <div class="tab-content mt-4">                       
+                        <div role="tabpanel" class="tab-pane container active" id="edit-user-details">
+                            <div class="form-group row required">
+                                <label class="col-md-3 col-form-label" for="name">Nombre Poliza</label>
+                                <div class="col-md-9">
+                                    @Html.TextBoxFor(model => model.Name)
+                                </div>
+                            </div>
+                            <div class="form-group row required">
+                                <label class="col-md-3 col-form-label" for="description">Descripcion</label>
+                                <div class="col-md-9">
+                                    @Html.DropDownListFor(model => model.Name, new SelectList(ViewBag.Users, "Value", "Text"))
+                                </div>
+                            </div>
+                            
+                        </div>
+
+
+
+                        <div class="row margin-bottom-thick">
+                            <div class="col-sm-1 col-sm-pull-1 textAlignLeftCenter">
+                                @Html.ActionLink("Back", "Index", "Home", new { @class = "btn btn-primary-action" })
+                            </div>
+
+                            <div class="col-sm-1 col-sm-offset-2 col-sm-push-2 textAlignRightCenter">
+                                <input type="submit" id="command" name="command" class="btn btn-primary" value="Guardar" />
+                            </div>
+
+                        </div>
+                    </div>
+                </div>}
+
+
+

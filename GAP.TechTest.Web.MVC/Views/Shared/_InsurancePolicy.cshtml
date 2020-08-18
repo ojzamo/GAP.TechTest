@@ -1,0 +1,56 @@
+﻿@model GAP.TechTest.Web.MVC.Models.InsurancePolicyModel
+<div role="tabpanel" class="tab-pane container active" id="edit-user-details">
+    <div class="form-group row required">
+        <label class="col-md-3 col-form-label" for="name">Nombre Poliza</label>
+        <div class="col-md-9">
+            @Html.TextBoxFor(model => model.Name)
+        </div>
+    </div>
+    <div class="form-group row required">
+        <label class="col-md-3 col-form-label" for="description">Descripcion</label>
+        <div class="col-md-9">
+            @Html.TextBoxFor(model => model.Description)
+        </div>
+    </div>
+    <div class="form-group row required">
+        <label class="col-md-3 col-form-label" for="period">Cobertura</label>
+        <div class="col-md-9">
+            @Html.TextBoxFor(model => model.CoverageType.Name)
+        </div>
+    </div>
+    <div class="form-group row required">
+        <label class="col-md-3 col-form-label" for="period">Porcentaje cobertura</label>
+        <div class="col-md-9">
+            @Html.TextBoxFor(model => model.CoverageType.Percent)
+        </div>
+    </div>
+    <div class="form-group row required">
+        <label class="col-md-3 col-form-label" for="period">Periodo</label>
+        <div class="col-md-9">
+            @Html.TextBoxFor(model => model.Period)
+        </div>
+    </div>
+    <div class="form-group row required">
+        <label class="col-md-3 col-form-label" for="Price">Precio</label>
+        <div class="col-md-9">
+            @Html.TextBoxFor(model => model.Price)
+        </div>
+    </div>
+    <div class="form-group row required">
+        <label class="col-md-3 col-form-label" for="Price">Riesgo</label>
+        <div class="col-md-9">
+            <div class="col-md-6">
+                <label>@Html.RadioButtonFor(model => model.RiskType, "Bajo", new { id = "Bajo" }) Bajo</label>
+            </div>
+            <div class="col-md-6">
+                <label>@Html.RadioButtonFor(model => model.RiskType, "Medio", new { id = "Medio" }) Medio</label>
+            </div>
+            <div class="col-md-6">
+                <label>@Html.RadioButtonFor(model => model.RiskType, "MedioAlto", new { id = "MedioAlto" }) Medio - Alto</label>
+            </div>
+            <div class="col-md-6">
+                <label>@Html.RadioButtonFor(model => model.RiskType, "Alto", new { id = "Alto" }) Alto</label>
+            </div>
+        </div>
+    </div>
+</div>
